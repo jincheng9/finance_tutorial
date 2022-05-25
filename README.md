@@ -9,9 +9,10 @@
 ## 证券
 
 * 交易规则
-* 费用
+  * [沪深交易所集合竞价规则](https://zhuanlan.zhihu.com/p/137762677)
+  * [沪深交易所市价委托含义说明](./workspace/securities/market_order.md)
 
-* [沪深交易所市价委托含义说明](./workspace/securities/market_order.md)
+* 费用
 
 ## 期货
 
