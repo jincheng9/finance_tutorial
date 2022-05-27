@@ -18,7 +18,8 @@
 
 * 交易规则
   * [各大期货交易所的交易时间](./workspace/futures/trading_time.md)
-
+  * [期货交易品种板块分类](https://zhuanlan.zhihu.com/p/459400875)
+  
 * 费用
   * 保证金
   * 手续费
