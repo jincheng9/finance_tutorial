@@ -6,7 +6,9 @@
 
   ![coding进阶](./workspace/img/wechat.png)
 
-## 证券
+## 业务知识
+
+### 证券
 
 包含股票、债券、基金、逆回购、股票期权等
 
@@ -16,7 +18,7 @@
 
 * 费用
 
-## 期货
+### 期货
 
 * 交易规则
   * [各大期货交易所的交易时间](./workspace/futures/trading_time.md)
@@ -28,4 +30,9 @@
   * 期货投资者保障基金
     * [期货交易所和期货公司缴纳费用](./workspace/futures/future_investor_protection_fund.md)
 
-## 算法交易
+## 交易系统技术
+
+## 量化交易书籍
+
+* [量化投资经典书籍推荐](./workspace/book/00-quant-book.md)
+
