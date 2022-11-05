@@ -12,15 +12,13 @@
 
 ## 入门书籍
 
-#### A Man for All Markets: From Las Vegas to Wall Street, How I Beat the Dealer and the Market
+* A Man for All Markets: From Las Vegas to Wall Street, How I Beat the Dealer and the Market
 
 这本书的作者是Edward O. Thorp，他有多重身份：数学教授、世界级二十一点(blackjack)玩家、量化对冲基金经理、畅销书作家。
 
 这本书讲述了作者本人是如何从战胜拉斯维加斯的赌场到创办量化对冲基金打败金融市场。
 
-
-
-#### The Man Who Solved the Market: How Jim Simons Launched the Quant Revolution
+* The Man Who Solved the Market: How Jim Simons Launched the Quant Revolution
 
 这本书里讲述的人是量化投资之父：西蒙斯。
 
@@ -34,17 +32,13 @@
 
 通过这本书，你可以了解到西蒙斯是如何从数学家走向投资家，如何用量化投资战胜市场，征服华尔街。
 
-
-
-#### The Quants: How a New Breed of Math Whizzes Conquered Wall Street and Nearly Destroyed It
+* The Quants: How a New Breed of Math Whizzes Conquered Wall Street and Nearly Destroyed It
 
 这本书的中文名叫《宽客》，相信听说或者看过的人不少。
 
 这本书讲述了众多知名的quant是如何用数学模型和计算机去征服华尔街，让你对美国量化投资以及知名基金经理有一个清晰的认知。
 
-
-
-#### When Genius Failed: The Rise and Fall of Long-term Capital Management
+* When Genius Failed: The Rise and Fall of Long-term Capital Management
 
 这本书讲述了Long-term Capital Management这家量化对冲基金公司的崛起和陨落。
 
@@ -58,7 +52,7 @@
 
 ## 实战书籍
 
-#### Inside the Black Box: The Simple Truth about Quantitative Trading
+* Inside the Black Box: The Simple Truth about Quantitative Trading
 
 作者是Rishi K. Narang，华尔街量化投资专家，资深量化对冲基金经理。
 
@@ -66,9 +60,7 @@
 
 这本书对想入门量化投资，或者已经从事量化投资的人都有一定帮助。
 
-
-
-#### Finding Alphas: A Quantitative Approach to Building Trading Strategies
+* Finding Alphas: A Quantitative Approach to Building Trading Strategies
 
 这本书的作者是大名鼎鼎的WorldQuant的创始人Igor Tulchinsky及其研究团队。
 
@@ -76,9 +68,7 @@
 
 这本书讲述了如何寻找Alpha所需的数据、如何做回测、Alpha因子和风险因子、如何避免过拟合等等。
 
-
-
-#### Calculated Bets: Computers, Gambling and Mathematical Modeling to Win
+* Calculated Bets: Computers, Gambling and Mathematical Modeling to Win
 
 这本书的作者Steven S. Skiena是一名计算机科学家，他写的算法设计一书成为众多大学的教材。
 
@@ -86,9 +76,7 @@
 
 适合理工科背景的人士阅读。
 
-
-
-#### Active Portfolio Management: A Quantitative Approach for Producing Superior Returns and Controlling Risk
+* Active Portfolio Management: A Quantitative Approach for Producing Superior Returns and Controlling Risk
 
 这本书的两位作者Richard Grinold / Ronald Kahn都是巴克莱全球投资公司的董事总经理。
 
