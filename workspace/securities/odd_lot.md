@@ -67,3 +67,5 @@
 ## References
 
 * http://www.szse.cn/lawrules/rule/trade/current/t20150914_565054.html
+* 上交所交易规则：http://www.sse.com.cn/lawandrules/sselawsrules/latest/
+* 深交所交易规则：http://www.szse.cn/lawrules/rule/new/index.html
