@@ -64,6 +64,8 @@
 
 
 
+**注意**：新的规则还没正式上线，预计今年底之前会上线，要涉及大量交易系统的改造工作。
+
 ## References
 
 * http://www.szse.cn/lawrules/rule/trade/current/t20150914_565054.html
