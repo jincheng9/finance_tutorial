@@ -15,7 +15,8 @@
 * 交易规则
   * [沪深交易所集合竞价规则](https://zhuanlan.zhihu.com/p/137762677)
   * [沪深交易所市价委托含义说明](./workspace/securities/market_order.md)
-
+  * [碎股交易规则](./workspace/securities/odd_lot.md)
+  
 * 费用
   * [股票交易费用](./workspace/securities/stock_fee.md)
 
