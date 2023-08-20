@@ -16,6 +16,7 @@
   * [沪深交易所集合竞价规则](https://zhuanlan.zhihu.com/p/137762677)
   * [沪深交易所市价委托含义说明](./workspace/securities/market_order.md)
   * [100+1交易新规则+零股卖出详细说明](./workspace/securities/odd_lot.md)
+  * [场内融资融券交易规则说明](./workspace/securities/margin_trade.md)
   
 * 费用
   * [股票交易费用](./workspace/securities/stock_fee.md)
