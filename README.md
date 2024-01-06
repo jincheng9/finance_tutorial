@@ -6,7 +6,7 @@
 
   ![coding进阶](./workspace/img/wechat.png)
 
-## 业务知识
+## 场内业务
 
 ### 证券
 
@@ -34,11 +34,17 @@
   * 期货投资者保障基金
     * [期货交易所和期货公司缴纳费用](./workspace/futures/future_investor_protection_fund.md)
 
-##  DMA业务
+## 场外业务
+
+### DMA业务
 
 * [一文读懂DMA业务](./workspace/dma/lecture01.md)
 
+## 策略相关
 
+* [什么是基差和升贴水](./workspace/strategy/index_futures_basis.md)
+
+* [为什么股指期货贴水会导致对冲成本高](./workspace/strategy/index_futures_hedge_cost.md)
 
 ## 交易系统技术
 
