@@ -44,7 +44,7 @@
 
 * [什么是基差和升贴水](./workspace/strategy/index_futures_basis.md)
 
-* [为什么股指期货贴水会导致对冲成本高](./workspace/strategy/index_futures_hedge_cost.md)
+* [为什么股指期货贴水深会导致对冲成本高](./workspace/strategy/index_futures_hedge_cost.md)
 
 ## 交易系统技术
 
