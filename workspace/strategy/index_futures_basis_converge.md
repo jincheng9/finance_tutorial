@@ -18,4 +18,6 @@
 
 * 中金所合约交易规则：http://www.cffex.com.cn/zgjrqhjyszz500gzqhhyjyxz/
 
+* 交割收敛说明：http://www.cffex.com.cn/mtxw/20150508/18975.html
+
 * http://www.990755.com/stock/2117.html
