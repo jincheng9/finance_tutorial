@@ -21,7 +21,7 @@
 * 费用
   * [股票交易费用](./workspace/securities/stock_fee.md)
 * 除权除息
-  * [一文读懂除权除息](./workspace/securities/xd_xr.md)
+  * [一文读懂分红、除权除息和复权](./workspace/securities/xd_xr.md)
 
 
 
