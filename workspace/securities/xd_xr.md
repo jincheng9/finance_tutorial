@@ -24,7 +24,7 @@
 * 在上海市场，投资者一般可在R＋2日查询所获得的红股是否到账，红股上市日一般为R＋2日。
 * 在深圳市场， 投资者一般可在R＋1日查询所获得的红股是否到账，红股 上市日一般为R＋1日。http://www.chinaclear.cn/zdjs/pxzlxcpx/200901/a11ddc1bf8cd48468390b10e1cdad789.shtml
 
-详细说明可以参考本repo下的xd_xr.pdf文件。
+详细说明可以参考文末的GitHub开源教程。
 
 
 
@@ -101,6 +101,20 @@ https://www.investor.org.cn/learning_center/investors_classroom/investment_guide
 * 当日**前复权价格**=当日原始价格*当日**前复权因子**。比如当日**前复权收盘价** = 当日原始收盘价 * 当日**前复权因子**，当日**前复权前收盘价** = 当日原始前收盘价 * 当日**前复权因子**
 
 以上所说的原始价格是指未复权价格。
+
+
+
+## 总结
+
+文章和示例代码开源在GitHub: [量化投资业务知识](https://github.com/jincheng9/finance_tutorial)，可以看到所有主流的开源LLM。
+
+公众号：coding进阶。关注公众号可以获取最新量化投资相关知识。
+
+个人网站：[Jincheng's Blog](https://jincheng9.github.io/)。
+
+知乎：[无忌](https://www.zhihu.com/people/thucuhkwuji)。
+
+
 
 ## Reference
 
