@@ -106,7 +106,7 @@ https://www.investor.org.cn/learning_center/investors_classroom/investment_guide
 
 ## 总结
 
-文章和示例代码开源在GitHub: [量化投资业务知识](https://github.com/jincheng9/finance_tutorial)，可以看到所有主流的开源LLM。
+文章和示例代码开源在GitHub: [量化投资业务知识](https://github.com/jincheng9/finance_tutorial)，可以学习最实用的量化投资知识。
 
 公众号：coding进阶。关注公众号可以获取最新量化投资相关知识。
 
