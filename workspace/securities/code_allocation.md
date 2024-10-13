@@ -53,4 +53,6 @@ https://www.szse.cn/marketServices/technicalservice/index.html
 
 ## Reference
 
-* 
+* https://www.sse.com.cn/lawandrules/guide/latest/
+
+* https://www.szse.cn/marketServices/technicalservice/index.html
