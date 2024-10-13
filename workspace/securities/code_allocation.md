@@ -25,13 +25,13 @@
 | ８           | 标准券、备用                 |
 | ９           | B股                          |
 
-上交所截止2024.10.13的最新代码段分配指南参考：[上交所代码段说明](./sse_securities_code_allocation_202403.docx)
+上交所截止2024.10.13的最新代码段分配指南参考：[上交所代码段说明](https://github.com/jincheng9/finance_tutorial/blob/main/workspace/securities/sse_securities_code_allocation_202403.docx)
 
 上交所官网的`规则->本所业务指南与流程`的栏目找到关于代码段的最新通知打开，或者在上交所官网搜索`代码段`关键字，找到最新通知打开，通知里的附件就是最新代码段分配指南的详细说明。
 
 ## 深交所
 
-深交所截止2024.10.13的最新代码段分配指南参考：[深交所代码段说明](./szse_securities_code_allocation_2024.pdf)
+深交所截止2024.10.13的最新代码段分配指南参考：[深交所代码段说明](https://github.com/jincheng9/finance_tutorial/blob/main/workspace/securities/szse_securities_code_allocation_2024.pdf)
 
 深交所官网的`市场服务->技术服务->相关文档`的栏目找到关于`代码区间`的文档，或者在深交所官网搜索`代码区间`关键字，
 
