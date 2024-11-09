@@ -13,8 +13,8 @@ def get_stat_date(page_index):
     for font_tag in soup.find_all('font', class_="newslist_style"):
         a_tag = font_tag.find('a', href=True, title=True)
         if a_tag and "金融统计数据报告" in a_tag['title']:
-            # 问题在于，<span>标签不是<font>标签的直接子元素
-            # 所以我们从<font>的父级开始寻找下一个<span>标签
+            # 发布日期是<span>标签的内容，<span>标签是<font_tag>标签的下一个兄弟标签
+            # 所以我们从<font>标签开始寻找下一个<span>标签
             next_span = font_tag.find_next_sibling('span')
             if next_span:
                 pub_date_list.append(next_span.text)
