@@ -12,8 +12,9 @@
 
 包含股票、债券、基金、逆回购、股票期权、指数等
 
-* 交易规则
+* 业务规则
   * [上交所和深交所证券代码段分配规则](./workspace/securities/code_allocation.md)
+  * [上交所和深交所逆回购代码888880和131990](./workspace/securities/repo.md)
   * [沪深交易所集合竞价规则](https://zhuanlan.zhihu.com/p/137762677)
   * [沪深交易所市价委托含义说明](./workspace/securities/market_order.md)
   * [100+1交易新规则+零股卖出详细说明](./workspace/securities/odd_lot.md)
