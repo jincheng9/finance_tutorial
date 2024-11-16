@@ -14,6 +14,7 @@
 
 * 业务规则
   * [上交所和深交所证券代码段分配规则](./workspace/securities/code_allocation.md)
+  * [北交所和新三板证券代码段分配规则](./workspace/securities/bse_neeq_code_allocation.md)
   * [上交所和深交所逆回购代码888880和131990](./workspace/securities/repo.md)
   * [沪深交易所集合竞价规则](https://zhuanlan.zhihu.com/p/137762677)
   * [沪深交易所市价委托含义说明](./workspace/securities/market_order.md)
