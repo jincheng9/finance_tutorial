@@ -107,7 +107,7 @@ https://mp.weixin.qq.com/s/_p1j9wQGxSZ4U5YAOS6SaQ
 
 T日融资买入，T日当天就可以还款，不收利息。
 
-融资负债合约是6个月到期，到期前可以自己申请展期，每次展期后的期限也不能超过6个月。
+融资负债合约是6个月到期，投资者通常可以在合约到期前30天开始自己申请展期，每次展期后的期限也不能超过6个月。
 
 如果融资买入被拒绝，可能是以下原因：
 
@@ -134,27 +134,72 @@ https://mp.weixin.qq.com/s/yzhUwMXnl7o3JHc1kUCu4w
 
 卖券还款可以卖出信用账户里的任何持仓，包括自有资金买入的证券和融资买入的证券。
 
-2种方式：默认顺序和指定合约还款。
+2种方式：指定合约还款和非指定合约还款。
+
+每个券商对于指定合约还款和非指定合约还款，在还款细节上有差异。具体以每家券商的规则为准，我下面列出的是常见的券商规则：
+
+* 指定合约还款
+
+  必须优先指定偿还本证券融资负债合约，归还后若有剩余优先归还未指定的本证券融资负债合约；再有剩余将按照负债合约归还截止日顺序归还，若合约归还截止日相同，则按合约编号顺序归还所有负债合约；
+
+* 非指定合约还款：
+
+  优先偿还本证券负债合约；再有剩余按照负债合约到期日由近及远顺序归还，若合约到期日相同，则按合约编号顺序归还所有负债合约；
 
 参考资料：
 
 https://mp.weixin.qq.com/s/_p1j9wQGxSZ4U5YAOS6SaQ
+
+https://mp.weixin.qq.com/s/Brf3_iRlloyekBn3N9YSzA
+
+https://mp.weixin.qq.com/s/vRLtktYkoIRpPbDQKtmWmw
 
 ### 直接还款
 
-默认顺序
+直接还款是指投资者使用信用账户的**自有资金**直接偿还融资负债，不能用融券卖出所得资金来归还融资负债。
 
-指定合约
+2种方式：指定合约还款和非指定合约还款。
+
+* 指定合约还款
+
+  指定合约归还后，还有剩余的资金按照融资负债合约到期日先后顺序还款，负债合约到期日相同的，按照合约的交易委托时间的先后顺序还款。
+
+* 非指定合约还款：
+
+  默认即按负债合约到期日的先后顺序还款，负债合约到期日相同的，按照合约的交易委托时间的先后顺序还款。
+
+
 
 参考资料：
 
+https://mp.weixin.qq.com/s/ETVJUV8NlI9cNX0zyHqNnw
+
 https://mp.weixin.qq.com/s/_p1j9wQGxSZ4U5YAOS6SaQ
+
+https://mp.weixin.qq.com/s/Brf3_iRlloyekBn3N9YSzA
+
+https://mp.weixin.qq.com/s/98Ykw_EOqKsMEWsS4mUJ5A
 
 ### 融券卖出
 
+融券卖出是指投资者从证券公司借入证券卖出的行为。
+
+融券卖出的证券必须是融券标的，每个融券标的证券有对应的融券保证金比例。
+
+比如保证金可用余额是100万，某个融券标的证券的融券保证金比例是80%，那就可以融券卖出100万/80%=125万市值的该融券标的证券。
+
 T日融券卖出，T+1日才能还券，至少收1天券息。
 
+融券卖出如果被拒，可能是以下原因导致：
 
+> * 融券卖出的证券不是融券标的
+> * 保证金可用余额不足
+> * 授信额度不够
+> * 要融券卖出的证券的券源数量不够
+
+融券卖出有价格限制，融券卖出的申报价格不得低于该证券的最新成交价；当天没有产生成交的，不得低于其前收盘价，低于上述价格的申报为无效申报，会被拒单。
+
+融券卖出所得资金不能随意使用，只能用于买券还券以及
 
 参考资料：
 
@@ -163,6 +208,8 @@ https://mp.weixin.qq.com/s/LExJ7p6SB14s9LTjU30FvA
 https://mp.weixin.qq.com/s/Mvt7WWiPRXbeSdP65qTojw
 
 ### 买券还券
+
+融券卖出所得资金优先用于买券还券操作。
 
 ### 直接还券
 
@@ -227,6 +274,18 @@ https://mp.weixin.qq.com/s/Mvt7WWiPRXbeSdP65qTojw
 
   **所以担保物不一定是可冲抵保证金的证券，但是持仓里的可冲抵保证金证券一定是担保物。**
 
+* 融资买入的证券能作为保证金么？
+
+  不能
+
+* 融券卖出的资金能用于担保品买入么？能转出到银行卡么？
+
+  不能
+
+* 融券卖出的资金能用于偿还融资负债么？
+
+  不能
+
 * 
 
 ## References
@@ -234,4 +293,3 @@ https://mp.weixin.qq.com/s/Mvt7WWiPRXbeSdP65qTojw
 * 国金证券融资融券投资者教育：https://mp.weixin.qq.com/s/Q8rpKDyUUBmv2g9jv0ZdtA
 * 国泰君安融资融券网站：https://www.gtja.com/content/margintrade/process/case-intro.html
 * 中金财富融资融券网站：https://www.ciccwm.com/ciccwmweb/stock_business/margin_requirement/margin_requirement_nav.html
-* 深交所融资融券交易规则2023年版本：http://docs.static.szse.cn/www/index/listing/rule/W020230217568325595241.pdf
