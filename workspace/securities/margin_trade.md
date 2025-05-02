@@ -209,6 +209,10 @@ T日融券卖出，T+1日才能还券，至少收1天券息。
 
 卖出货币基金或债券ETF时优先卖出自有资金购买的部分，后卖出融券卖出所得资金购买的部分。
 
+融券负债合约展期对于普通融券和专项融券不一样，详情可以参考：
+
+https://mp.weixin.qq.com/s/n6CDoXpJhqJFRRIVkAEMug
+
 参考资料：
 
 https://mp.weixin.qq.com/s/LExJ7p6SB14s9LTjU30FvA
@@ -251,8 +255,6 @@ T日融券卖出，T+1日才能还券，至少收1天券息。
 
 https://mp.weixin.qq.com/s/UY1S3B-2ayHngjLU8-IbOw
 
-### 负债合约展期
-
 
 
 ## 风控
@@ -290,11 +292,12 @@ https://mp.weixin.qq.com/s/UY1S3B-2ayHngjLU8-IbOw
 
   担保品卖出 vs 卖券还款
 
-* 
+参考资料：
+
+https://mp.weixin.qq.com/s/u68oiLo7bYTfucuOBa07_A
 
 ## 注意事项
 
-* 融券卖出可用资金只能买券商指定的货币基金或债券基金。
 * 信用账户不能交易国债逆回购。
 * 信用账户新股申购，需要再普通账户保留沪深两个市场股票各100股。
 
